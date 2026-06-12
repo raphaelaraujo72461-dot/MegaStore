@@ -1,0 +1,1 @@
+C:\Users\rapha\Desktop\Projeto_megaStore\target\debug\megastore_search.exe: C:\Users\rapha\Desktop\Projeto_megaStore\src\index.rs C:\Users\rapha\Desktop\Projeto_megaStore\src\lib.rs C:\Users\rapha\Desktop\Projeto_megaStore\src\main.rs C:\Users\rapha\Desktop\Projeto_megaStore\src\models.rs C:\Users\rapha\Desktop\Projeto_megaStore\src\recommendation.rs
